@@ -1,0 +1,7 @@
+
+INSERT INTO Invoices(Number, status,IssueDate,DueDate,service,unitprice, Quantity, ClientName , Email,phone,Address)
+values
+('100052','Paid','2024-12-25','2024-12-31','Proofreading',10.00,30,'John','john@gmail.com','9753774','1610 29 ave SW'),
+('100050','Paid','2024-12-25','2024-12-31','Proofreading',10.00,30,'John','joe@gmail.com','9753770','Calgary'),
+('100051','Paid','2024-12-25','2024-12-31','Proofreading',10.00,30,'John','rose@gmail.com','9753771','Toronto')
+
